@@ -11,4 +11,4 @@ the design includes
 
 a 3 to 8 decoder
 
-a full adder passing the inputs onto the decoder, doing necessary logics, getting the outputs out
+a full adder passing the inputs onto the decoder, taking decoded output, doing necessary logics, outputting
